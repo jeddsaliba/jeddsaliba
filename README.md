@@ -20,7 +20,7 @@
   - MobKard
 -->
 
-<h2>GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" />
