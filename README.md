@@ -14,6 +14,7 @@
   - Gapan (Dashboard)
 
 - <b>Mobile Application(s)</b>
+  - GetStylin'
   - Mr. PickUp
   - Floky
 
