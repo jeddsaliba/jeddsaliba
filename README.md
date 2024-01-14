@@ -23,8 +23,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="414.6px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="350px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="438.3px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="370px"/>
 </div>
 
 <h2> 🤳 Connect with me</h2>
