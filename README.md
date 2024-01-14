@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jedd! <br/><a href="https://github.com/jeddsaliba">Programmer</a>, <a href="https://www.linkedin.com/in/jeddsaliba/">Web Developer</a>, <a href="https://bluehourvisuals.webflow.io">Photographer</a></h1>
+<h1>Hi, I'm Jedd! <br/><a href="https://github.com/jeddsaliba">Programmer</a>, <a href="https://www.linkedin.com/in/jeddsaliba/">Web Developer</a></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jeddsaliba&label=Profile%20views&color=0e75b6&style=flat" alt="Jedd Saliba"/></p>
 
 <h2>Things I Code With</h2>
