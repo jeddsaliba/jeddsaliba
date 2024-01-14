@@ -1,9 +1,21 @@
-  <h1>Hi, I'm Jedd! <br/><a href="https://github.com/jeddsaliba">Programmer</a>, <a href="https://www.linkedin.com/in/jeddsaliba/">Web Developer</a>, <a href="https://bluehourvisuals.webflow.io">Photographer</a></h1>
+<h1>Hi, I'm Jedd! <br/><a href="https://github.com/jeddsaliba">Programmer</a>, <a href="https://www.linkedin.com/in/jeddsaliba/">Web Developer</a>, <a href="https://bluehourvisuals.webflow.io">Photographer</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Laravel Package(s)</b>
   - [Laravel Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize)
+
+- <b>Web System(s)</b>
+  - HappyHR (HR Management)
+  - Intranet (Social Media)
+  - Granite Expo (Dashboard)
+  - Kimstore (E-Commerce)
+  - TheRightStuff (E-Commerce)
+  - Gapan (Dashboard)
+
+- <b>Mobile Application(s)</b>
+  - Mr. PickUp
+  - Floky
 
 <h2> 🤳 Connect with me:</h2>
 
