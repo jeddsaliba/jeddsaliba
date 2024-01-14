@@ -24,7 +24,7 @@
 
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" height="195px" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" height="195px" width="300px"/>
 </div>
 
 <h2> 🤳 Connect with me</h2>
