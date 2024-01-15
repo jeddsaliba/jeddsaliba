@@ -36,8 +36,6 @@ With a proven track record of 7 years in the field of backend development using 
   - [Logistika](https://github.com/jeddsaliba/logistika)
   - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph)
 
-[![CLN Intranet][cln-intranet-icon]][cln-intranet-url]
-
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
@@ -51,9 +49,6 @@ With a proven track record of 7 years in the field of backend development using 
 [<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Jedd Saliba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook-url]
 [<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-url]
-
-[cln-intranet-icon]: https://github.com/jeddsaliba/jeddsaliba/blob/main/projects/icons/cln-intranet.png
-[cln-intranet-url]: https://github.com/jeddsaliba/cln-intranet
 
 [github-url]: https://github.com/jeddsaliba
 [linkedin-url]: https://www.linkedin.com/in/jeddsaliba
