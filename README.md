@@ -36,15 +36,13 @@ With a proven track record of 7 years in the field of backend development using 
   - [Logistika](https://github.com/jeddsaliba/logistika)
   - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph)
 
+[![CLN Intranet][cln-intranet-icon]][cln-intranet-url]
+
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="456.2px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="385.1px"/>
-</div>
-
-<div align="center">
-    <img src="projects/bluehour-visuals.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 <h2> 🤳 Connect with me</h2>
@@ -53,6 +51,9 @@ With a proven track record of 7 years in the field of backend development using 
 [<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Jedd Saliba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook-url]
 [<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-url]
+
+[cln-intranet-icon]: https://github.com/jeddsaliba/jeddsaliba/blob/main/projects/icons/cln-intranet.png
+[cln-intranet-url]: https://github.com/jeddsaliba/cln-intranet
 
 [github-url]: https://github.com/jeddsaliba
 [linkedin-url]: https://www.linkedin.com/in/jeddsaliba
