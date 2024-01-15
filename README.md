@@ -37,13 +37,13 @@
 
 - <b>Website(s) | Web Application(s) | System(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io)
-  - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
-  - [HappyHR](https://www.happyhr.com)
-  - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs)
   - [GetStylin'](https://getstylin.com)
+  - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
+  - [HappyHR](https://www.happyhr.com)
   - [Logistika](https://github.com/jeddsaliba/logistika)
+  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph)
 
 <h2>📊 GitHub Stats</h2>
 
