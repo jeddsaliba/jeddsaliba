@@ -45,6 +45,7 @@
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs)
   - [GetStylin'](https://getstylin.com)
+  - [Logistika](https://github.com/jeddsaliba/logistika)
 
 <h2>📊 GitHub Stats</h2>
 
