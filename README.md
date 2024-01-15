@@ -43,6 +43,7 @@
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs)
+  - [GetStylin'](https://github.com/jeddsaliba/get-stylin)
 
 <h2>📊 GitHub Stats</h2>
 
