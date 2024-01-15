@@ -3,8 +3,6 @@
 
 With a proven track record of 7 years in the field of backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, coupled with the proficiency in mainstream frontend development tools, including Webflow, Angular, and Ionic. I am adept at crafting robust, scalable, and high-performance web applications that seamlessly marry functionality with an exceptional user experience.
 
-I'm open for consultations, freelancing and/or outsourced project development.
-
 <h2>🛠️ Tools I Use</h2>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
