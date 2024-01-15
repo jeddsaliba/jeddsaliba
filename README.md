@@ -38,9 +38,13 @@ With a proven track record of 7 years in the field of backend development using 
 
 <h2>📊 GitHub Stats</h2>
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="456.2px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="385.1px"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="456.2px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="385.1px"/>
+</div>
+
+<div align="center">
+    <img src="projects/bluehour-visuals.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 <h2> 🤳 Connect with me</h2>
