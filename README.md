@@ -3,13 +3,15 @@
 
 With a proven track record of 7 years in the field of backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, coupled with the proficiency in mainstream frontend development tools, including Webflow, Angular, and Ionic. I am adept at crafting robust, scalable, and high-performance web applications that seamlessly marry functionality with an exceptional user experience.
 
-<h2>🛠️ Tools I Use</h2>
+## 🛠️ Tools I Use
+[![Laravel][laravel-icon]][laravel-url]
+[![CodeIgniter][codeigniter-icon]][codeigniter-url]
+[![Angular][angular-icon]][angular-url]
+[![Ionic][ionic-icon]][ionic-url]
+[![MySQL][mysql-icon]][mysql-url]
+
 <p>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-%23EF4223?logo=codeIgniter&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-%233880FF?logo=Ionic&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?logo=mysql&logoColor=white" />
+  <!-- 
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
@@ -19,7 +21,7 @@ With a proven track record of 7 years in the field of backend development using 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-6DA55F?logo=node.js&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white" /> -->
   <!-- <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
@@ -96,3 +98,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[codeigniter-icon]: https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white
+[codeigniter-url]: https://www.codeigniter.com
+[laravel-icon]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[laravel-url]: https://laravel.com
+[angular-icon]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[angular-url]: https://angular.io
+[ionic-icon]: https://img.shields.io/badge/-Ionic-%233880FF?style=for-the-badge&logo=Ionic&logoColor=white
+[ionic-url]: https://ionicframework.com
+[mysql-icon]: https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://www.mysql.com
