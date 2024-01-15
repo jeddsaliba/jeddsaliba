@@ -35,10 +35,8 @@
 - <b>Laravel Package(s)</b>
   - [Laravel Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize)
 
-- <b>Website(s)</b>
+- <b>Website(s) | Web Application(s) | System(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io)
-
-- <b>Web Application(s) / System(s)</b>
   - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
   - [HappyHR](https://www.happyhr.com)
