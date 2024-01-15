@@ -1,5 +1,9 @@
-<h1>Hi, I'm Jedd! <br/><a href="https://github.com/jeddsaliba">Programmer</a>, <a href="https://www.linkedin.com/in/jeddsaliba/">Web Developer</a></h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jeddsaliba&label=Profile%20views&color=0e75b6&style=flat" alt="Jedd Saliba"/></p>
+# Jedd Saliba
+**`Digital Nomad (💻 Web Developer | 📸 Photographer)`**
+
+With over 7 years of experience in backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, as well as frontend expertise in mainstream web development tools, including Webflow, Angular, and Ionic.
+
+I'm open for consultations, freelancing and/or outsourced project development.
 
 <h2>🛠️ Tools I Use</h2>
 <p>
