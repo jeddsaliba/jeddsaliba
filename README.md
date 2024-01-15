@@ -78,7 +78,7 @@ With a proven track record of 7 years in the field of backend development using 
 [docker-url]: https://www.docker.com
 [redux-icon]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 [redux-url]: https://redux.js.org
-[socketio-icon]: https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&badgeColor=010101
+[socketio-icon]: https://img.shields.io/badge/Socket.IO-00000F?style=for-the-badge&logo=socket.io&badgeColor=010101
 [socketio-url]: https://socket.io
 [git-icon]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [git-url]: https://git-scm.com
