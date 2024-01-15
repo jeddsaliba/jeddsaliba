@@ -1,7 +1,7 @@
 # Jedd Saliba
 **`Digital Nomad (💻 Web Developer | 📸 Photographer)`**
 
-With over 7 years of experience in backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, as well as frontend expertise in mainstream web development tools, including Webflow, Angular, and Ionic.
+With a proven track record of 7 years of experience in backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, coupled with the proficiency in mainstream frontend development tools, including Webflow, Angular, and Ionic. I am adept at crafting robust, scalable, and high-performance web applications that seamlessly marry functionality with an exceptional user experience.
 
 I'm open for consultations, freelancing and/or outsourced project development.
 
