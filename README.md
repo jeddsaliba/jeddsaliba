@@ -36,6 +36,7 @@
   - [Laravel Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize)
 
 - <b>Website(s) | Web Application(s) | System(s)</b>
+  - <a href="https://bluehourvisuals.webflow.io" target="_blank">BlueHour Visuals</a>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io)
   - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
