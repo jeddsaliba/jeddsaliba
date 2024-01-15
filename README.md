@@ -40,6 +40,7 @@
 
 - <b>Web Application(s) / System(s)</b>
   - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
 
 <h2>📊 GitHub Stats</h2>
 
