@@ -9,45 +9,16 @@ With a proven track record of 7 years in the field of backend development using 
 [![Angular][angular-icon]][angular-url]
 [![Ionic][ionic-icon]][ionic-url]
 [![MySQL][mysql-icon]][mysql-url]
-
-<p>
-  <!-- 
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?logo=google-cloud&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
-  <img alt="SocketIO" src="https://img.shields.io/badge/-Socket.IO-black?logo=socket.io&badgeColor=010101" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-6DA55F?logo=node.js&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white" /> -->
-  <!-- <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="LESS" src="https://img.shields.io/badge/-Less-2B4C80?style=flat-square&logo=less&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="JQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="ChartJS" src="https://img.shields.io/badge/-Chart.JS-F5788D?style=flat-square&logo=chart.js&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=flat-square&logo=codeIgniter&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-%233880FF?style=flat-square&logo=Ionic&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="SocketIO" src="https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io&badgeColor=010101" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" /> -->
-</p>
+[![Google Cloud Platform][google-cloud-platform-icon]][google-cloud-platform-url]
+[![AWS][aws-icon]][aws-url]
+[![Heroku][heroku-icon]][heroku-url]
+[![Docker][docker-icon]][docker-url]
+[![Redux][redux-icon]][redux-url]
+[![SocketIO][socketio-icon]][socketio-url]
+[![Git][git-icon]][git-url]
+[![NPM][npm-icon]][npm-url]
+[![NodeJS][nodejs-icon]][nodejs-url]
+[![Jira][jira-icon]][jira-url]
 
 <h2>👨‍💻 My Projects</h2>
 
@@ -74,30 +45,15 @@ With a proven track record of 7 years in the field of backend development using 
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="Jedd Saliba | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jedd Saliba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jedd Saliba | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github-url]
+[<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
+[<img align="left" alt="Jedd Saliba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook-url]
+[<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-url]
 
-[github]: https://github.com/jeddsaliba
-[linkedin]: https://www.linkedin.com/in/jeddsaliba
-[facebook]: https://www.facebook.com/jeddsaliba
-[instagram]: https://www.instagram.com/jeddsaliba
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[github-url]: https://github.com/jeddsaliba
+[linkedin-url]: https://www.linkedin.com/in/jeddsaliba
+[facebook-url]: https://www.facebook.com/jeddsaliba
+[instagram-url]: https://www.instagram.com/jeddsaliba
 
 [codeigniter-icon]: https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white
 [codeigniter-url]: https://www.codeigniter.com
@@ -105,7 +61,27 @@ Here are some ideas to get you started:
 [laravel-url]: https://laravel.com
 [angular-icon]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io
-[ionic-icon]: https://img.shields.io/badge/-Ionic-%233880FF?style=for-the-badge&logo=Ionic&logoColor=white
+[ionic-icon]: https://img.shields.io/badge/Ionic-%233880FF?style=for-the-badge&logo=Ionic&logoColor=white
 [ionic-url]: https://ionicframework.com
-[mysql-icon]: https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-icon]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [mysql-url]: https://www.mysql.com
+[google-cloud-platform-icon]: https://img.shields.io/badge/Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white
+[google-cloud-platform-url]: https://cloud.google.com
+[aws-icon]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[aws-url]: https://aws.amazon.com
+[heroku-icon]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[heroku-url]: https://www.heroku.com
+[docker-icon]: https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com
+[redux-icon]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
+[redux-url]: https://redux.js.org
+[socketio-icon]: https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&badgeColor=010101
+[socketio-url]: https://socket.io
+[git-icon]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-url]: https://git-scm.com
+[npm-icon]: https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[npm-url]: https://www.npmjs.com
+[nodejs-icon]: https://img.shields.io/badge/Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[nodejs-url]: https://nodejs.org
+[jira-icon]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+[jira-url]: https://www.atlassian.com/software/jira
