@@ -41,6 +41,8 @@
 - <b>Web Application(s) / System(s)</b>
   - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
+  - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
+  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs)
 
 <h2>📊 GitHub Stats</h2>
 
