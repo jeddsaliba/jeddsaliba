@@ -38,7 +38,7 @@
 - <b>Website(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io)
 
-- <b>Web Application(s)/System(s)</b>
+- <b>Web Application(s) / System(s)</b>
   - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
 
 <h2>📊 GitHub Stats</h2>
