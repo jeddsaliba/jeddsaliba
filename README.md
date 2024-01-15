@@ -41,9 +41,10 @@
 - <b>Web Application(s) / System(s)</b>
   - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
+  - [HappyHR](https://www.happyhr.com)
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs)
-  - [GetStylin'](https://github.com/jeddsaliba/get-stylin)
+  - [GetStylin'](https://getstylin.com)
 
 <h2>📊 GitHub Stats</h2>
 
