@@ -38,21 +38,8 @@
 - <b>Website(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io)
 
-<!--
-- <b>Web System(s)</b>
-  - HappyHR (HR Management)
-  - Intranet (Social Media)
-  - Granite Expo (Dashboard)
-  - Kimstore (E-Commerce)
-  - TheRightStuff (E-Commerce)
-  - Gapan (Dashboard)
-
-- <b>Mobile Application(s)</b>
-  - GetStylin'
-  - Mr. PickUp
-  - Floky
-  - MobKard
--->
+- <b>Web Application(s)/System(s)</b>
+  - [Mr. PickupPH](https://github.com/jeddsaliba/mr-pickup-ph)
 
 <h2>📊 GitHub Stats</h2>
 
