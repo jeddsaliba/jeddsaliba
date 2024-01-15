@@ -30,7 +30,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
 </p>
 
-<h2>👨‍💻 Web Development Projects</h2>
+<h2>👨‍💻 My Projects</h2>
 
 - <b>Laravel Package(s)</b>
   - [Laravel Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize)
