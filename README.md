@@ -31,9 +31,9 @@ With a proven track record of 7 years in the field of backend development using 
 - <b>Website(s) | Web Application(s) | System(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
   - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic Mobile Applications Developer)*
-  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Full Stack Developer)*
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Full Stack Developer)*
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Full Stack Developer)*
-  - [GetStylin'](https://getstylin.com) *(Ionic Mobile Applications Developer)*
+  - [GetStylin'](https://getstylin.com) *(Team Lead, Ionic Mobile Applications Developer)*
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Laravel Backend Developer)*
   - [HappyHR](https://www.happyhr.com) *(Full Stack Developer)*
   - [Logistika](https://github.com/jeddsaliba/logistika) *(Web Developer)*
