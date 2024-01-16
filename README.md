@@ -25,19 +25,19 @@ With a proven track record of 7 years in the field of backend development using 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgxM2w4b2MwaHRvOTJkd3ZtNW1naGZ5bXJ2eXEwNXl6aXNuZXVmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- <b>Laravel Package(s)</b>
-  - [Laravel Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize)
+- <b>Published Package(s)</b>
+  - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
 
 - <b>Website(s) | Web Application(s) | System(s)</b>
-  - [BlueHour Visuals](https://bluehourvisuals.webflow.io)
-  - [Carrux](https://github.com/jeddsaliba/carrux)
-  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet)
-  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs)
-  - [GetStylin'](https://getstylin.com)
-  - [Granite Expo](https://github.com/jeddsaliba/granite-expo)
-  - [HappyHR](https://www.happyhr.com)
-  - [Logistika](https://github.com/jeddsaliba/logistika)
-  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph)
+  - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
+  - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic Mobile Applications Developer)*
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Full Stack Developer)*
+  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Full Stack Developer)*
+  - [GetStylin'](https://getstylin.com) *(Ionic Mobile Applications Developer)*
+  - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Laravel Backend Developer)*
+  - [HappyHR](https://www.happyhr.com) *(Full Stack Developer)*
+  - [Logistika](https://github.com/jeddsaliba/logistika) *(Web Developer)*
+  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead, Full Stack Developer)*
 
 ## 📊 GitHub Stats
 
