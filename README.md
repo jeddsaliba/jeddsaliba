@@ -1,9 +1,10 @@
 # Jedd Saliba
 **`Digital Nomad (💻 Web Developer | 📸 Photographer)`**
 
-With a proven track record of 7 years in the field of backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, coupled with the proficiency in mainstream frontend development tools, including Webflow, Angular, and Ionic. I am adept at crafting robust, scalable, and high-performance web applications that seamlessly marry functionality with an exceptional user experience.
+With a proven track record of 7 years in the field of backend development using the latest trends in PHP frameworks such as Laravel, Yii, CodeIgniter, and Zend, coupled with proficiency in mainstream frontend development tools, including Webflow, Angular, and Ionic. I am adept at crafting robust, scalable, and high-performance web applications that seamlessly marry functionality with an exceptional user experience.
 
 ## 🛠️ Tools I Use
+
 [![Laravel][laravel-icon]][laravel-url]
 [![CodeIgniter][codeigniter-icon]][codeigniter-url]
 [![Angular][angular-icon]][angular-url]
@@ -42,8 +43,6 @@ With a proven track record of 7 years in the field of backend development using 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="456.2px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="385.1px"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="53%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="44.74%" />
 </div>
