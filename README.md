@@ -61,10 +61,10 @@ With a proven track record of 7 years in the field of backend development using 
 [facebook-url]: https://www.facebook.com/jeddsaliba
 [instagram-url]: https://www.instagram.com/jeddsaliba
 
-[codeigniter-icon]: https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white
-[codeigniter-url]: https://www.codeigniter.com
 [laravel-icon]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [laravel-url]: https://laravel.com
+[codeigniter-icon]: https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white
+[codeigniter-url]: https://www.codeigniter.com
 [angular-icon]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io
 [ionic-icon]: https://img.shields.io/badge/Ionic-%233880FF?style=for-the-badge&logo=Ionic&logoColor=white
