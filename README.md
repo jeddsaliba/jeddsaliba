@@ -21,7 +21,9 @@ With a proven track record of 7 years in the field of backend development using 
 [![NodeJS][nodejs-icon]][nodejs-url]
 [![Jira][jira-icon]][jira-url]
 
-<h2>👨‍💻 My Projects</h2>
+## 👨‍💻 My Projects
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgxM2w4b2MwaHRvOTJkd3ZtNW1naGZ5bXJ2eXEwNXl6aXNuZXVmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - <b>Laravel Package(s)</b>
   - [Laravel Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize)
@@ -37,7 +39,7 @@ With a proven track record of 7 years in the field of backend development using 
   - [Logistika](https://github.com/jeddsaliba/logistika)
   - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph)
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="456.2px"/>
@@ -46,7 +48,7 @@ With a proven track record of 7 years in the field of backend development using 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="44.74%" />
 </div>
 
-<h2> 🤳 Connect with me</h2>
+## 🤳 Connect with me
 
 [<img align="left" alt="Jedd Saliba | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github-url]
 [<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
