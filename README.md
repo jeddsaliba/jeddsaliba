@@ -50,11 +50,13 @@ With a proven track record of 7 years in the field of backend development using 
 
 ## 🤳 Connect with me
 
+[<img align="left" alt="Jedd Saliba | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-url]
 [<img align="left" alt="Jedd Saliba | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github-url]
 [<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Jedd Saliba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook-url]
 [<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-url]
 
+[gmail-url]: mailto:jeddsaliba@gmail.com
 [github-url]: https://github.com/jeddsaliba
 [linkedin-url]: https://www.linkedin.com/in/jeddsaliba
 [facebook-url]: https://www.facebook.com/jeddsaliba
