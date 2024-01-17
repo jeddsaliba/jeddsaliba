@@ -38,7 +38,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Laravel Backend Developer)*
   - [HappyHR](https://www.happyhr.com) *(Full Stack Developer)*
   - [Logistika](https://github.com/jeddsaliba/logistika) *(Web Developer)*
-  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead, Full Stack Developer)*
+  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead, Backend Developer)*
 
 ## 📊 GitHub Stats
 
