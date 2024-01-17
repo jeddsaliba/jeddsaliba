@@ -34,11 +34,11 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic Mobile Applications Developer)*
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Full Stack Developer)*
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Full Stack Developer)*
-  - [GetStylin'](https://getstylin.com) *(Team Lead, Ionic Mobile Applications Developer)*
+  - [GetStylin'](https://getstylin.com) *(Team Lead, Ionic Mobile Applications Developer, Zend Backend Developer)*
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Laravel Backend Developer)*
   - [HappyHR](https://www.happyhr.com) *(Full Stack Developer)*
   - [Logistika](https://github.com/jeddsaliba/logistika) *(Web Developer)*
-  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead, Backend Developer)*
+  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead, Zend Backend Developer)*
 
 ## 📊 GitHub Stats
 
