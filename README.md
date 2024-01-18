@@ -3,6 +3,8 @@
 
 With a proven track record of **7 years** 🎉 in the field of backend development using the latest trends in PHP frameworks such as **Laravel**, **Yii**, **CodeIgniter**, and **Zend**, coupled with proficiency in mainstream frontend development tools, including **Webflow**, **Angular**, and **Ionic**. I am adept at crafting robust 💪, scalable 📈, and high-performance ⚡ web applications that seamlessly marry functionality with an exceptional user experience.
 
+[![Download CV][resume-icon]][resume-url]
+
 ## 🛠️ Tools I Use
 
 [![Laravel][laravel-icon]][laravel-url]
@@ -54,6 +56,9 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 [<img align="left" alt="Jedd Saliba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Jedd Saliba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook-url]
 [<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-url]
+
+[resume-icon]: https://img.shields.io/badge/Download_CV-232F3E?style=for-the-badge
+[resume-url]: https://drive.google.com/file/d/1A-4lA0QfBZHuTDBYJDr5d37He8YSkF6x/view
 
 [gmail-url]: mailto:jeddsaliba@gmail.com
 [github-url]: https://github.com/jeddsaliba
