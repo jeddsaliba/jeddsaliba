@@ -42,6 +42,12 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Logistika](https://github.com/jeddsaliba/logistika) *(Web Developer)*
   - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead, Zend Backend Developer)*
 
+## My Personality
+
+![Personality](assets/personality.png){: style="float: left"}
+
+Some text.
+
 ## 📊 GitHub Stats
 
 <div align="center">
