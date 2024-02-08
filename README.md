@@ -30,6 +30,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 
 - <b>Published Package(s)</b>
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
+  - [Chargify](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
 
 - <b>Website(s) | Web Application(s) | System(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
