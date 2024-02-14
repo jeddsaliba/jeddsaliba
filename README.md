@@ -50,6 +50,8 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="44.74%" />
 </div>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Whatever%20you%20do%2C%20work%20at%20it%20with%20all%20your%20heart%2C%20as%20working%20for%20the%20Lord%2C%20not%20for%20human%20masters%2C%20since%20you%20know%20that%20you%20will%20receive%20an%20inheritance%20from%20the%20Lord%20as%20a%20reward.%20It%20is%20the%20Lord%20Christ%20you%20are%20serving.&author=Colossians%203%3A23-24)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🤳 Connect with me
 
 [<img align="left" alt="Jedd Saliba | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail-url]
