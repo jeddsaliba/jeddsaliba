@@ -33,7 +33,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
   - Quickbooks *(Coming Soon)*
 
-- <b>Mini Project(s)</b>
+- <b>Mini Project(s)</b> *(for testing purposes)*
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
   - [Laravel CRUD](https://github.com/jeddsaliba/laravel-crud) *(Laravel)*
   - React CRUD *(Coming Soon)*
