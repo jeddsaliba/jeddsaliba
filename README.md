@@ -35,6 +35,8 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 - <b>Mini Project(s)</b>
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
   - [Laravel CRUD](https://github.com/jeddsaliba/laravel-crud) *(Laravel)*
+  - React CRUD *(Coming Soon)*
+  - Vue CRUD *(Coming Soon)*
 
 - <b>Website(s) | Web Application(s) | System(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
