@@ -31,6 +31,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 - <b>Published Package(s)</b>
   - [Chargify (Maxio)](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
+  - Quickbooks *(Coming Soon)*
 
 - <b>Mini Project(s)</b>
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
