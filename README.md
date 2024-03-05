@@ -32,6 +32,10 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Chargify (Maxio)](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
 
+- <b>Mini Project(s)</b>
+  - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
+  - [Laravel CRUD](https://github.com/jeddsaliba/laravel-crud) *(Laravel)*
+
 - <b>Website(s) | Web Application(s) | System(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
   - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic Mobile Applications Developer)*
