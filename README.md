@@ -39,7 +39,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - React CRUD *(Coming Soon)*
   - Vue CRUD *(Coming Soon)*
 
-- <b>Website(s) | Web Application(s) | System(s)</b>
+- <b>Top Project(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
   - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic Mobile Applications Developer)*
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Full Stack Developer)*
