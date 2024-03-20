@@ -33,14 +33,11 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 - <b>Published Package(s)</b>
   - [Chargify (Maxio)](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
-  - Quickbooks *(Coming Soon)*
 
 - <b>Mini Project(s)</b> *(try them out for **FREE!**)*
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
   - [Laravel CRUD](https://github.com/jeddsaliba/laravel-crud) *(Laravel)*
   - [Rain Check](https://github.com/jeddsaliba/angular-rain-check) *(Angular v16, Auth0, Geoapify, OpenWeather API)*
-  - React CRUD *(Coming Soon)*
-  - Vue CRUD *(Coming Soon)*
 
 - <b>Top Project(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
