@@ -38,6 +38,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
   - [Laravel CRUD](https://github.com/jeddsaliba/laravel-crud) *(Laravel)*
   - [Rain Check](https://github.com/jeddsaliba/angular-rain-check) *(Angular v16, Auth0, Geoapify, OpenWeather API)*
+    - [Preview](https://angular-rain-check.vercel.app)
 
 - <b>Top Project(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
