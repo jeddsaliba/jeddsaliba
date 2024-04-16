@@ -41,16 +41,19 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
     - [Preview](https://angular-rain-check.vercel.app)
 
 - <b>Mobile Application Project(s)</b>
+  - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic)*
+  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Ionic)*
   - [GetStylin'](https://getstylin.com) *(Team Lead, Ionic)*
   - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead)*
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Ionic)*
 
 - <b>Web Project(s)</b>
-  - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Web Developer)*
-  - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic Mobile Applications Developer)*
-  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Full Stack Developer)*
-  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Full Stack Developer)*
-  - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(PHP Backend Developer)*
-  - [HappyHR](https://www.happyhr.com) *(Full Stack Developer)*
+  - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Webflow)*
+  - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic)*
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Full Stack)*
+  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Full Stack)*
+  - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Laravel)*
+  - [HappyHR](https://www.happyhr.com) *(Full Stack)*
 
 ## 📊 GitHub Stats
 
