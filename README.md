@@ -41,18 +41,18 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
     - [Preview](https://angular-rain-check.vercel.app)
 
 - <b>Mobile Application Project(s)</b>
-  - [Carrux](https://github.com/jeddsaliba/carrux) *(Ionic)*
-  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Ionic)*
-  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Ionic)*
-  - [GetStylin'](https://getstylin.com) *(Team Lead, Ionic)*
-  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Team Lead)*
+  - [Carrux](https://github.com/jeddsaliba/carrux) *(Junior Programmer, Ionic)*
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Senior Software Engineer, Ionic)*
+  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Senior Software Engineer, Ionic)*
+  - [GetStylin'](https://getstylin.com) *(Senior Software Engineer, Ionic)*
+  - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Senior Software Engineer)*
 
 - <b>Web Project(s)</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Webflow)*
-  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Team Lead, Full Stack)*
-  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Team Lead, Full Stack)*
-  - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Laravel)*
-  - [HappyHR](https://www.happyhr.com) *(Full Stack)*
+  - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Senior Software Engineer, Full Stack)*
+  - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Senior Software Engineer, Full Stack)*
+  - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Senior Software Engineer, Full Stack)*
+  - [HappyHR](https://www.happyhr.com) *(Web Developer, Full Stack)*
 
 ## 📊 GitHub Stats
 
