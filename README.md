@@ -48,7 +48,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
   - [Mr. Pickup PH](https://github.com/jeddsaliba/mr-pickup-ph) *(Senior Software Engineer)*
 
 - <b>Web Project(s)</b>
-  - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Webflow)*
+  - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Developer, Webflow)*
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Senior Software Engineer, Full Stack)*
   - [Gapan Fresh Eggs](https://github.com/jeddsaliba/gapan-fresh-eggs) *(Senior Software Engineer, Full Stack)*
   - [Granite Expo](https://github.com/jeddsaliba/granite-expo) *(Senior Software Engineer, Full Stack)*
