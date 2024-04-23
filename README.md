@@ -10,6 +10,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 ## 🛠️ Tools I Use
 
 [![Laravel][laravel-icon]][laravel-url]
+[![Filament][filament-icon]][filament-url]
 [![CodeIgniter][codeigniter-icon]][codeigniter-url]
 [![Angular][angular-icon]][angular-url]
 [![Ionic][ionic-icon]][ionic-url]
@@ -76,6 +77,8 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 
 [laravel-icon]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [laravel-url]: https://laravel.com
+[filament-icon]: https://img.shields.io/badge/Filament-f3b05e?style=for-the-badge&logo=fi&logoColor=black
+[filament-url]: https://filamentphp.com
 [codeigniter-icon]: https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white
 [codeigniter-url]: https://www.codeigniter.com
 [angular-icon]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
