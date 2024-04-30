@@ -38,6 +38,7 @@ With a proven track record of **7 years** 🎉 in the field of backend developme
 - <b>Mini Project(s)</b> *(try them out for **FREE!**)*
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
   - [Laravel CRUD](https://github.com/jeddsaliba/laravel-crud) *(Laravel)*
+  - [Filament CRUD](https://github.com/jeddsaliba/filament-crud) *(Filament v3)*
   - [Rain Check](https://github.com/jeddsaliba/angular-rain-check) *(Angular v16, Auth0, Geoapify, OpenWeather API)*
     - [Preview](https://angular-rain-check.vercel.app)
 
