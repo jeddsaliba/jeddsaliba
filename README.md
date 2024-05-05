@@ -1,5 +1,7 @@
 # Jedd Saliba
-**`Digital Nomad (💻 Web Developer | 📸 Photographer)`**
+**`Digital Nomad (💻 Web Developer)`**
+
+*Transforming Vision into Seamless Digital Solutions*
 
 With a proven track record of **seven (7) years** in the field of **full-stack web development** using the latest trends in PHP frameworks such as **Laravel**, **Filament**, **Yii2**, **CodeIgniter**, and **Zend**, coupled with proficiency in mainstream **frontend development** tools, including **Webflow**, **Angular**, and **Ionic**.
 
