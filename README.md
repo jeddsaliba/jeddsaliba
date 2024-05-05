@@ -1,7 +1,11 @@
 # Jedd Saliba
 **`Digital Nomad (💻 Web Developer | 📸 Photographer)`**
 
-With a proven track record of **7 years** 🎉 in the field of backend development using the latest trends in PHP frameworks such as **Laravel**, **Yii2**, **CodeIgniter**, and **Zend**, coupled with proficiency in mainstream frontend development tools, including **Webflow**, **Angular**, and **Ionic**. I am adept at crafting robust 💪, scalable 📈, and high-performance ⚡ web applications that seamlessly marry functionality with an exceptional user experience.
+With a proven track record of **seven (7) years** in the field of **full-stack web development** using the latest trends in PHP frameworks such as **Laravel**, **Filament**, **Yii2**, **CodeIgniter**, and **Zend**, coupled with proficiency in mainstream **frontend development** tools, including **Webflow**, **Angular**, and **Ionic**.
+
+I am adept at crafting robust, scalable, and high-performance web applications that effortlessly marry functionality and exceptional user experience. I strive for excellence in designing new ways to improve the development lifecycle in order to provide efficient turnaround time for companies and their target market.
+
+If you'd prefer to connect directly, I can be reached at jeddsaliba@gmail.com.
 
 [![Download CV][resume-icon]][resume-url]
 
