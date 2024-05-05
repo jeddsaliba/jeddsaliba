@@ -1,5 +1,5 @@
 # Jedd Saliba
-**`Digital Nomad (💻 Web Developer)`**
+**`💻 Web Developer`**
 
 *Transforming Vision into Seamless Digital Solutions*
 
