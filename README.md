@@ -62,7 +62,7 @@ If you'd prefer to connect directly, I can be reached at jeddsaliba@gmail.com.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeddsaliba" alt="Jedd Saliba's LangStat" width="53%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeddsaliba&show_icons=true" alt="Jedd Saliba's LangStat" width="53%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeddsaliba&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Jedd Saliba's Language" width="44.74%" />
 </div>
 
