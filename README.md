@@ -43,8 +43,8 @@ If you'd prefer to connect directly, I can be reached at jeddsaliba@gmail.com.
 
 - <b>Open-source Project(s)</b> *(try them out for **FREE!**)*
   - [FilamentPHP Boilerplate](https://github.com/jeddsaliba/filamentphp-boilerplate) *(Filament v3)* ***NEW!***
-  - [Project Tracker](https://github.com/jeddsaliba/project-tracker) *(Filament v3)* ***NEW!***
   - [SaaS Starter Kit](https://github.com/jeddsaliba/saas-starter-kit-demo) *(Filament v3)* ***NEW!***
+  - [Project Tracker](https://github.com/jeddsaliba/project-tracker) *(Filament v3)* ***NEW!***
   - [Rain Check](https://github.com/jeddsaliba/angular-rain-check) *(Angular v16, Auth0, Geoapify, OpenWeather API)*
     - [Preview](https://angular-rain-check.vercel.app)
 
