@@ -41,7 +41,8 @@ If you'd prefer to connect directly, I can be reached at jeddsaliba@gmail.com.
   - [Chargify (Maxio)](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
 
-- <b>Mini Project(s)</b> *(try them out for **FREE!**)*
+- <b>Open-source Project(s)</b> *(try them out for **FREE!**)*
+  - [FilamentPHP Boilerplate](https://github.com/jeddsaliba/filamentphp-boilerplate) *(Filament v3)* ***NEW!***
   - [Project Tracker](https://github.com/jeddsaliba/project-tracker) *(Filament v3)* ***NEW!***
   - [SaaS Starter Kit](https://github.com/jeddsaliba/saas-starter-kit-demo) *(Filament v3)* ***NEW!***
   - [Angular CRUD](https://github.com/jeddsaliba/angular-crud) *(Angular v16)*
