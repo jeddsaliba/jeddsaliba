@@ -1,13 +1,14 @@
 # Jedd Saliba
-**`💻 Web Developer`**
+**`Web Developer | Laravel Expert | FilamentPHP Specialist`**
 
 *Transforming Vision into Seamless Digital Solutions*
 
-With a proven track record of **seven (7) years** in the field of **full-stack web development** using the latest trends in PHP frameworks such as **Laravel**, **Filament**, **Yii2**, **CodeIgniter**, and **Zend**, coupled with proficiency in mainstream **frontend development** tools, including **Webflow**, **Angular**, and **Ionic**.
+I am a full-stack web developer with eight years of experience, specializing in **Laravel** for building robust, scalable backend systems and **FilamentPHP** for creating seamless and powerful admin dashboards. My expertise in these frameworks allows me to craft high-performance web applications that blend functionality with an exceptional user experience.
 
-I am adept at crafting robust, scalable, and high-performance web applications that effortlessly marry functionality and exceptional user experience. I strive for excellence in designing new ways to improve the development lifecycle in order to provide efficient turnaround time for companies and their target market.
+Beyond Laravel and FilamentPHP, I have experience working with **Yii2**, **CodeIgniter**, and **Zend**, as well as frontend technologies like **Webflow**, **Angular**, and **Ionic**. I am passionate about optimizing development workflows, improving system efficiency, and delivering solutions that enable businesses to scale effectively.
 
-If you'd prefer to connect directly, I can be reached at jeddsaliba@gmail.com.
+Let's connect and discuss how I can help bring your vision to life.
+Reach me at jeddsaliba@gmail.com.
 
 [![Download CV][resume-icon]][resume-url]
 
