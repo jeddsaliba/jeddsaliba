@@ -3,7 +3,7 @@
 
 *Transforming Vision into Seamless Digital Solutions*
 
-I am a full-stack web developer with eight years of experience, specializing in **Laravel** for building robust, scalable backend systems and **FilamentPHP** for creating seamless and powerful admin dashboards. My expertise in these frameworks allows me to craft high-performance web applications that blend functionality with an exceptional user experience.
+I am a full-stack web developer with eight years of experience, specializing in **Laravel** for building robust, scalable backend systems and APIs, along with **FilamentPHP** for creating seamless and powerful admin dashboards. My expertise in these frameworks allows me to craft high-performance web applications that blend functionality with an exceptional user experience.
 
 Beyond Laravel and FilamentPHP, I have experience working with **Yii2**, **CodeIgniter**, and **Zend**, as well as frontend technologies like **Webflow**, **Angular**, and **Ionic**. I am passionate about optimizing development workflows, improving system efficiency, and delivering solutions that enable businesses to scale effectively.
 
