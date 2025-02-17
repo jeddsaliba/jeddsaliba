@@ -1,5 +1,5 @@
 # Jedd Saliba
-**`Web Developer | Laravel Expert | FilamentPHP Specialist`**
+**`Laravel Expert | FilamentPHP Specialist`**
 
 *Transforming Vision into Seamless Digital Solutions*
 
