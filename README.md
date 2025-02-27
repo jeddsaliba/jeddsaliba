@@ -38,18 +38,18 @@ Reach me at jeddsaliba@gmail.com.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgxM2w4b2MwaHRvOTJkd3ZtNW1naGZ5bXJ2eXEwNXl6aXNuZXVmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- <b>Published Package(s)</b>
+- <b>Published</b>
   - [Filament One](https://packagist.org/packages/jeddsaliba/filament-one) *(Filament v3)* ***NEW!***
   - [Chargify (Maxio)](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
 
-- <b>Open-source Project(s)</b> *(try them out for **FREE!**)*
-  - [SaaS Starter Kit](https://github.com/jeddsaliba/saas-starter-kit-demo) *(Filament v3)* ***NEW!***
-  - [Project Tracker](https://github.com/jeddsaliba/project-tracker) *(Filament v3)* ***NEW!***
+- <b>WIP</b>
+  - [SaaS Starter Kit](https://github.com/jeddsaliba/saas-starter-kit-demo) *(Filament v3)*
+  - [Project Tracker](https://github.com/jeddsaliba/project-tracker) *(Filament v3)*
   - [Rain Check](https://github.com/jeddsaliba/angular-rain-check) *(Angular v16, Auth0, Geoapify, OpenWeather API)*
     - [Preview](https://angular-rain-check.vercel.app)
 
-- <b>Professional Project(s)</b>
+- <b>Client Work</b>
   - [BlueHour Visuals](https://bluehourvisuals.webflow.io) *(Developer, Webflow)*
   - [Carrux](https://github.com/jeddsaliba/carrux) *(Junior Programmer, Ionic)*
   - [CLN Intranet](https://github.com/jeddsaliba/cln-intranet) *(Senior Software Engineer, Full Stack)*
