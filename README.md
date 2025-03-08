@@ -39,6 +39,7 @@ Reach me at jeddsaliba@gmail.com.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgxM2w4b2MwaHRvOTJkd3ZtNW1naGZ5bXJ2eXEwNXl6aXNuZXVmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - <b>Published</b>
+  - [Messages](https://packagist.org/packages/jeddsaliba/filament-messages) *(Filament v3 Plugin)* ***NEW!***
   - [Filament One](https://packagist.org/packages/jeddsaliba/filament-one) *(Filament v3)* ***NEW!***
   - [Chargify (Maxio)](https://packagist.org/packages/jscustom/laravel-chargify) *(Laravel)*
   - [Image Resize](https://packagist.org/packages/jscustom/laravel-image-resize) *(Laravel)*
