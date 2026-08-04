@@ -72,7 +72,7 @@ Reach me at jeddsaliba@gmail.com.
 [<img align="left" alt="Jedd Saliba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-url]
 
 [resume-icon]: https://img.shields.io/badge/Download_CV-232F3E?style=for-the-badge
-[resume-url]: https://drive.google.com/file/d/15qbghWUDdKKtVx-Ar9ntlnT8FV00dsGc/view?usp=sharing
+[resume-url]: https://drive.google.com/file/d/1KoeBaIb5dH9kI8BR8qIWBRoPWN4L5IKg/view
 
 [gmail-url]: mailto:jeddsaliba@gmail.com
 [github-url]: https://github.com/jeddsaliba
