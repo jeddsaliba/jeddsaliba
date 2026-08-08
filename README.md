@@ -70,6 +70,7 @@ I'm comfortable owning a feature end-to-end: architecture, database design, API 
 
 | Client / Project | Role | Stack |
 |---|---|---|
+| [Total Male Rx][total-male-rx-url] ↗ | Web Developer | Full Stack |
 | [GetStylin'][getstylin-url] ↗ | Senior Software Engineer | Ionic, Full Stack |
 | [HappyHR][happyhr-url] ↗ | Web Developer | Full Stack |
 | [Granite Expo][granite-url] | Senior Software Engineer | Full Stack |
@@ -138,6 +139,7 @@ I'm open to discussing full-time, contract, or project-based roles. If you're hi
 [instagram-url]: https://www.instagram.com/jeddsaliba
 
 <!-- Client work links -->
+[total-male-rx-url]: https://www.totalmalerx.com
 [getstylin-url]: https://getstylin.com
 [happyhr-url]: https://www.happyhr.com
 [granite-url]: https://github.com/jeddsaliba/granite-expo
